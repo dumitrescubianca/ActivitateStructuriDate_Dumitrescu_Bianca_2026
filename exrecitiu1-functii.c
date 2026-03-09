@@ -37,7 +37,7 @@ void dezalocare(struct meniu* s)
 	free(s->denumire);
 }
 
-int main()
+/* int main()
 {
 	struct meniu m;
 	m = initializare(1, 250, 20.5, "ciorba");
@@ -47,4 +47,4 @@ int main()
 	afisare(m);
 	dezalocare(&m);
 	return 0;
-}
+}*/
