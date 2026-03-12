@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="exercitiu9_recap_functii.c">
+    <ClCompile Include="exercitiu10_recapitulare_functii.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
