@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="exercitiu8_fisiere.c">
+    <ClCompile Include="exercitiu9_recap_functii.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
