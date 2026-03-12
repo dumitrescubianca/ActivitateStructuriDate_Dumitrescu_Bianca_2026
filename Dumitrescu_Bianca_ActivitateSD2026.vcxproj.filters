@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="exerciitiu6_vector.c">
+    <ClCompile Include="exercitiu7_fisiere.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
