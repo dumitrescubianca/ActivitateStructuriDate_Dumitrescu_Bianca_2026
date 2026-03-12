@@ -1,0 +1,3 @@
+1,350,45.5,Enigma Otiliei,George Calinescu
+2,280,39.9,Morometii,Marin Preda
+3,410,52.0,Padurea Spanzuratilor,Liviu Rebreanu
